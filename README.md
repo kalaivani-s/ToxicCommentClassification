@@ -5,4 +5,5 @@ The [Conversation AI team](https://conversationai.github.io/) hosted the [Toxic 
 The data can be found [here](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data).
 
 The salient features for different toxic categories are as below:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Salient features")
+
+![alt text](https://github.com/kalaivani-s/ToxicCommentClassification/blob/master/salient_features.png "Salient features")
